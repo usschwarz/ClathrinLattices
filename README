@@ -48,6 +48,6 @@ simulated clathrin lattices is saved. The files are organized as follows:
 3. row: number of structural gaps of the lattice
 4. row: number of triskelia 
 5. row: solidity of the lattice
-6. row: aspect ratio of the lattice 
+6. row: aspect ratio of the lattice  
 
 (9) Please note that the TSPSolver from concorde.tsp prints various messages to the screen.
